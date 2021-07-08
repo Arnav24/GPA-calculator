@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transparent"
+    tools:context=".MainActivity">
+    <Button
+        android:id="@+id/back"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/back"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        />
+    <Button
+        android:id="@+id/home"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="@drawable/homepage"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="18dp"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/buttonPopup"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="900dp"
+        android:layout_height="350dp"
+        android:background="@drawable/glass"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_centerHorizontal="true"
+        android:layout_width="166dp"
+        android:layout_height="49dp"
+        android:background="@drawable/enter"
+        android:layout_marginTop="370dp"
+        android:text="C-cycle"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="275dp"
+       />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="166dp"
+        android:layout_height="49dp"
+        android:background="@drawable/enter"
+        android:layout_centerHorizontal="true"
+        android:text="P-cycle"
+        tools:layout_editor_absoluteX="122dp"
+        android:layout_marginTop="270dp"
+        tools:layout_editor_absoluteY="362dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient2"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="315dp"
+            android:layout_height="148dp"
+            android:layout_above="@+id/USN"
+            app:srcCompat="@drawable/logo" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"
+            >
+
+<<<<<<< Updated upstream
+=======
+    <EditText
+        android:id="@+id/USN"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#11000000"
+        android:layout_margin="20dp"
+        android:drawableLeft="@drawable/ic_action_name"
+        android:drawableStart="@drawable/ic_action_name"
+
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:hint="Enter your USN"
+        android:textStyle="bold"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/white"
+        android:textSize="12sp" />
+>>>>>>> Stashed changes
+
+    <EditText
+        android:id="@+id/nameField"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/white"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:layout_height="40dp"
+        android:textStyle="bold"
+        android:layout_margin="20dp"
+        android:background="#11000000"
+        android:drawableLeft="@drawable/ic_action_name"
+        android:ems="10"
+        android:hint="Enter your name"
+        android:inputType="textPersonName"
+        android:textSize="12sp" />
+
+            <EditText
+                android:id="@+id/USN"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="#11000000"
+                android:layout_margin="20dp"
+                android:drawableLeft="@drawable/ic_action_name"
+                android:drawableStart="@drawable/ic_action_name"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:ems="10"
+                android:hint="Enter your USN"
+                android:textStyle="bold"
+                android:inputType="textPersonName"
+                android:textColor="@android:color/white"
+                android:textSize="12sp" />
+
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="@drawable/enter"
+            android:shadowRadius="56"
+            android:layout_margin="20dp"
+            android:text="Enter" />
+        </LinearLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

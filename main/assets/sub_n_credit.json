@@ -1,0 +1,85 @@
+{
+  "thirdSem":
+  [
+    {
+      "subjects":["Transform Calculus, Fourier Series And Numerical Techniques","Data Structures and Applications","Analog and Digital Electronics","Computer Organization","Software Engineering","Discrete Mathematical Structure","Analog and Digital Electronics Laboratory","Data Structures Laboratory","Kannda or CIP"],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":["Transform Calculus, Fourier Series And Numerical Techniques","Strength of Materials","Fluid Mechanics","Building Materials and Construction","Basic Surveying","Engineering Geology ","Computer Aided Building Planning & Drawing","Building Materials Testing Laboratory","Kannda or CIP"],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":["Transform Calculus, Fourier Series And Numerical Techniques","Network Theory","Electronic Devices","Digital System Design","Computer Organization & Architecture","Power Electronics & Instrumentation","Electronic Devices & Instrumentation Laboratory","Digital System Design Laboratory","Kannda or CIP"],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":
+      [
+        "Transform Calculus, Fourier Series And Numerical Techniques",
+        "Electric Circuit Analysis",
+        "Transformers and Generators",
+        "Analog Electronic Circuits",
+        "Digital System Design",
+        "Electrical and Electronic Measurements",
+        "Electrical Machines Laboratory -I",
+        "Electronics Laboratory",
+        "Kannda or CIP"
+      ],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":["Transform Calculus, Fourier Series And Numerical Techniques","Data Structures and Applications","Analog and Digital Electronics","Computer Organization","Software Engineering","Discrete Mathematical Structure","Analog and Digital Electronics Laboratory","Data Structures Laboratory","Kannda or CIP"],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":
+      [
+        "Transform Calculus, Fourier Series And Numerical Techniques",
+        "Electronic Instrumentation and Measurements",
+        "Analog Electronic Circuits",
+        "Digital Design and HDL",
+        "Transducers and Instrumentation",
+        "Network Analysis",
+        "Analog Electronic Circuits Lab",
+        "Digital Design and HDL Lab",
+        "Kannda or CIP"
+      ],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":["Transform Calculus, Fourier Series And Numerical Techniques","Network Theory","Electronic Devices","Digital System Design","Computer Organization & Architecture","Power Electronics & Instrumentation","Electronic Devices & Instrumentation Laboratory","Digital System Design Laboratory","Kannda or CIP"],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":
+      [
+        "Transform Calculus, Fourier Series And Numerical Techniques",
+        "Mechanics of Materials",
+        "Basic Thermodynamics",
+        "Material Science",
+        "MCF/MCW",
+        "CAMD/MMM",
+        "Material Lab/MMM Lab",
+        "Workshop/Welding Lab",
+        "Kannda or CIP"
+      ],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    },
+    {
+      "subjects":
+      [
+        "Transform Calculus, Fourier Series And Numerical Techniques",
+        "Mechanics of Materials",
+        "Fluid Mechanics",
+        "Basic Thermodynamics",
+        "Mechanical Measurements and Metrology",
+        "Manufacturing Process",
+        "Foundry and Forging Lab /Machine Shop",
+        "MMM lab",
+        "Kannda or CIP"
+      ],
+      "credits":[3,4,3,3,3,3,2,2,1]
+    }
+  ]
+}
